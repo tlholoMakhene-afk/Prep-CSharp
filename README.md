@@ -1,2 +1,2 @@
 # Prep-CSharp
-Bunch of small typical interview algorithms
+Bunch of small typical interview algorithms and otheer stuff:)
