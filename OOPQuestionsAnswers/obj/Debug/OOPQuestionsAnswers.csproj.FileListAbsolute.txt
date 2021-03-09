@@ -1,0 +1,7 @@
+C:\Users\Tlholo Makhene\source\repos\PrepOnCSharp\OOPQuestionsAnswers\bin\Debug\OOPQuestionsAnswers.exe.config
+C:\Users\Tlholo Makhene\source\repos\PrepOnCSharp\OOPQuestionsAnswers\bin\Debug\OOPQuestionsAnswers.exe
+C:\Users\Tlholo Makhene\source\repos\PrepOnCSharp\OOPQuestionsAnswers\bin\Debug\OOPQuestionsAnswers.pdb
+C:\Users\Tlholo Makhene\source\repos\PrepOnCSharp\OOPQuestionsAnswers\obj\Debug\OOPQuestionsAnswers.csprojAssemblyReference.cache
+C:\Users\Tlholo Makhene\source\repos\PrepOnCSharp\OOPQuestionsAnswers\obj\Debug\OOPQuestionsAnswers.csproj.CoreCompileInputs.cache
+C:\Users\Tlholo Makhene\source\repos\PrepOnCSharp\OOPQuestionsAnswers\obj\Debug\OOPQuestionsAnswers.exe
+C:\Users\Tlholo Makhene\source\repos\PrepOnCSharp\OOPQuestionsAnswers\obj\Debug\OOPQuestionsAnswers.pdb

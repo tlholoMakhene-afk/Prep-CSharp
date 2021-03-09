@@ -1,0 +1,7 @@
+C:\Users\Tlholo Makhene\source\repos\PrepOnCSharp\PrepOnCSharp\obj\Debug\PrepOnCSharp.csprojAssemblyReference.cache
+C:\Users\Tlholo Makhene\source\repos\PrepOnCSharp\PrepOnCSharp\obj\Debug\PrepOnCSharp.csproj.CoreCompileInputs.cache
+C:\Users\Tlholo Makhene\source\repos\PrepOnCSharp\PrepOnCSharp\bin\Debug\PrepOnCSharp.exe.config
+C:\Users\Tlholo Makhene\source\repos\PrepOnCSharp\PrepOnCSharp\bin\Debug\PrepOnCSharp.exe
+C:\Users\Tlholo Makhene\source\repos\PrepOnCSharp\PrepOnCSharp\bin\Debug\PrepOnCSharp.pdb
+C:\Users\Tlholo Makhene\source\repos\PrepOnCSharp\PrepOnCSharp\obj\Debug\PrepOnCSharp.exe
+C:\Users\Tlholo Makhene\source\repos\PrepOnCSharp\PrepOnCSharp\obj\Debug\PrepOnCSharp.pdb

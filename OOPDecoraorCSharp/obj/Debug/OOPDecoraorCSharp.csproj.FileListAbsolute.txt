@@ -1,0 +1,7 @@
+C:\Users\Tlholo Makhene\source\repos\PrepOnCSharp\OOPDecoraorCSharp\bin\Debug\OOPDecoraorCSharp.exe.config
+C:\Users\Tlholo Makhene\source\repos\PrepOnCSharp\OOPDecoraorCSharp\bin\Debug\OOPDecoraorCSharp.exe
+C:\Users\Tlholo Makhene\source\repos\PrepOnCSharp\OOPDecoraorCSharp\bin\Debug\OOPDecoraorCSharp.pdb
+C:\Users\Tlholo Makhene\source\repos\PrepOnCSharp\OOPDecoraorCSharp\obj\Debug\OOPDecoraorCSharp.csproj.CoreCompileInputs.cache
+C:\Users\Tlholo Makhene\source\repos\PrepOnCSharp\OOPDecoraorCSharp\obj\Debug\OOPDecoraorCSharp.exe
+C:\Users\Tlholo Makhene\source\repos\PrepOnCSharp\OOPDecoraorCSharp\obj\Debug\OOPDecoraorCSharp.pdb
+C:\Users\Tlholo Makhene\source\repos\PrepOnCSharp\OOPDecoraorCSharp\obj\Debug\OOPDecoraorCSharp.csprojAssemblyReference.cache

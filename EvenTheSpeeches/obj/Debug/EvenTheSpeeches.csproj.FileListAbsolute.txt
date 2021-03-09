@@ -1,0 +1,7 @@
+C:\Users\Tlholo Makhene\source\repos\PrepOnCSharp\EvenTheSpeeches\bin\Debug\EvenTheSpeeches.exe.config
+C:\Users\Tlholo Makhene\source\repos\PrepOnCSharp\EvenTheSpeeches\bin\Debug\EvenTheSpeeches.exe
+C:\Users\Tlholo Makhene\source\repos\PrepOnCSharp\EvenTheSpeeches\bin\Debug\EvenTheSpeeches.pdb
+C:\Users\Tlholo Makhene\source\repos\PrepOnCSharp\EvenTheSpeeches\obj\Debug\EvenTheSpeeches.csprojAssemblyReference.cache
+C:\Users\Tlholo Makhene\source\repos\PrepOnCSharp\EvenTheSpeeches\obj\Debug\EvenTheSpeeches.csproj.CoreCompileInputs.cache
+C:\Users\Tlholo Makhene\source\repos\PrepOnCSharp\EvenTheSpeeches\obj\Debug\EvenTheSpeeches.exe
+C:\Users\Tlholo Makhene\source\repos\PrepOnCSharp\EvenTheSpeeches\obj\Debug\EvenTheSpeeches.pdb
